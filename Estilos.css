@@ -1,0 +1,16 @@
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-family: Arial;
+    width: 1470px;
+}
+td{
+    border: 2px solid black;
+}
+th, h1{
+    background-color: #c9c9c9;
+}
+pre{
+    font-family:Arial ;
+}
+
